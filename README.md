@@ -31,7 +31,7 @@ Projekt polega na zbudowaniu i porównaniu kilku modeli regresyjnych do przewidy
 ---
 
 ## 🗂️ Struktura projektu
-
+```
 main
 │
 ├── data/ # Dane źródłowe
@@ -50,7 +50,7 @@ main
 │
 ├── requirements.txt # Lista bibliotek
 ├── README.md # Opis projektu
-
+```
 
 ---
 
